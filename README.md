@@ -53,4 +53,17 @@ The difference between good and exceptional Curve Rush players comes down to:
 
 Remember that [Curve Rush](https://curve-rush.io/) rewards persistence - the satisfying flow state of perfect momentum management is achievable with practice, creating an endlessly engaging gameplay experience that balances accessibility with depth.
 
-Social
+## Join the Curve Rush Community!
+
+Experience the adrenaline of Curve Rush, the ultimate high-speed arcade game where precision and momentum are key! Compete with players worldwide, share your best scores, and challenge friends to beat your records. Stay updated with the latest news, gameplay tips, and exclusive events by following us on social media. Join the conversation, showcase your skills, and connect with fellow players in the Curve Rush community!
+
+🔹 Play now: [Curve Rush](https://curve-rush.io/)
+
+🔹 Follow us on Twitter: [Curve Rush](https://x.com/curverushiopro)
+
+🔹 Join the Facebook Community: [Curve Rush](https://www.facebook.com/profile.php?id=61573851809084)
+
+🔹 Watch gameplay on YouTube: [Curve Rush](https://www.youtube.com/@curverushio)
+
+
+#CurveRush #ArcadeGaming #SpeedChallenge
