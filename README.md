@@ -59,11 +59,11 @@ Experience the adrenaline of Curve Rush, the ultimate high-speed arcade game whe
 
 🔹 [Play now](https://curve-rush.io/)
 
-🔹 [Follow us on Twitter](https://x.com/curverushiopro)
+🔹 [Twitter Community](https://x.com/curverushiopro)
 
 🔹 [Facebook Community](https://www.facebook.com/profile.php?id=61573851809084)
 
-🔹 [YouTube](https://www.youtube.com/@curverushio)
+🔹 [YouTube Channel](https://www.youtube.com/@curverushio)
 
 
 #CurveRush #ArcadeGaming #SpeedChallenge
