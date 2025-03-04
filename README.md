@@ -57,13 +57,13 @@ Remember that [Curve Rush](https://curve-rush.io/) rewards persistence - the sat
 
 Experience the adrenaline of Curve Rush, the ultimate high-speed arcade game where precision and momentum are key! Compete with players worldwide, share your best scores, and challenge friends to beat your records. Stay updated with the latest news, gameplay tips, and exclusive events by following us on social media. Join the conversation, showcase your skills, and connect with fellow players in the Curve Rush community!
 
-🔹 Play now: [Curve Rush](https://curve-rush.io/)
+🔹 [Play now](https://curve-rush.io/)
 
-🔹 Follow us on Twitter: [Curve Rush](https://x.com/curverushiopro)
+🔹 [Follow us on Twitter](https://x.com/curverushiopro)
 
-🔹 Join the Facebook Community: [Curve Rush](https://www.facebook.com/profile.php?id=61573851809084)
+🔹 [Facebook Community](https://www.facebook.com/profile.php?id=61573851809084)
 
-🔹 Watch gameplay on YouTube: [Curve Rush](https://www.youtube.com/@curverushio)
+🔹 [YouTube](https://www.youtube.com/@curverushio)
 
 
 #CurveRush #ArcadeGaming #SpeedChallenge
