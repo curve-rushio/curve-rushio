@@ -1,5 +1,6 @@
 [Curve Rush](https://curve-rush.io/) transforms the classic ball-rolling mechanic into an exhilarating arcade experience where precision and momentum management are key to success. This comprehensive walkthrough will guide you through mastering the game's unique physics system, understanding advanced techniques, and conquering its challenging desert landscapes.
 
+![curve-rush](https://curve-rush.io/cache/data/image/game/curverush_1200x1200-m150x150.webp)
 ## Game Overview
 In Curve Rush, you control a small but nimble ball racing across endless desert terrain filled with slopes, jumps, and obstacles. The core gameplay revolves around momentum conservation - building speed on downward slopes and maintaining it through strategic jumps and landings. The game's minimalist design focuses attention on the fluid ball physics and the satisfying sensation of perfectly timed maneuvers.
 
@@ -51,3 +52,5 @@ The difference between good and exceptional Curve Rush players comes down to:
 * Maintaining focus during extended play sessions
 
 Remember that [Curve Rush](https://curve-rush.io/) rewards persistence - the satisfying flow state of perfect momentum management is achievable with practice, creating an endlessly engaging gameplay experience that balances accessibility with depth.
+
+Social
