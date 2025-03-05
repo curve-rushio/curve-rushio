@@ -32,7 +32,7 @@ Even experts make mistakes - learn how to minimize speed loss after imperfect la
 * Using small bumps to regain momentum
 * Employing short, controlled jumps to rebuild speed gradually
 
-**Progression Strategy**
+### **Progression Strategy**
 
 As you advance through Curve Rush's increasingly challenging landscapes, focus on:
 * Pattern Recognition: Each section of desert has recognizable formations - learn to spot and prepare for them
