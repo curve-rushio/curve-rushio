@@ -61,7 +61,7 @@ Experience the adrenaline of Curve Rush, the ultimate high-speed arcade game whe
 
 🔹 [Twitter Community](https://x.com/curverushiopro)
 
-🔹 [Facebook Community](https://www.facebook.com/profile.php?id=61573851809084)
+🔹 [Facebook Community](https://www.facebook.com/curverushio2)
 
 🔹 [YouTube Channel](https://www.youtube.com/@curverushio)
 
